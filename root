@@ -1,0 +1,7 @@
+project-root/
+├── src/              # Source code
+├── planning/         # Planning documents
+├── meetings/         # Meeting minutes
+├── reports/          # Project reports
+├── README.md         # Project README file
+├── .gitignore        # Gitignore file to specify which files to ignore
